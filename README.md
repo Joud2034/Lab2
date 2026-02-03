@@ -1,1 +1,2 @@
 # Lab2
+The dataset consist of collection labeld into two classes either ham (not spam) or spam emails. It is a classification problem, where the objective is to classify and determine the category of the emails. The target variable is Category column and the input feature is the email message. The model is expected to learn meaningful patterns based on emails’ content so that it can accurately classify and categorise new email messages as spam or harm.
